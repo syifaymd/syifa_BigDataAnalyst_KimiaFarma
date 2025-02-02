@@ -3,7 +3,6 @@
 Tool : BigQuery <br>
 Visualization : "https://lookerstudio.google.com/s/k3IpeY-vPMk"
 
-Dataset : 
 <br>
 
 ---
@@ -22,17 +21,6 @@ Dataset yang disediakan terdiri dari tabel-tabel berikut:<br>
 -kf_ﬁnal_transaction,<br> - kf_inventory,<br> - kf_kantor_cabang,<br> - kf_product. 
 <br>
 
-
-<details>
-  <summary>Klik untuk melihat ERD</summary>
-
-<p align="center">
-  <kbd> <img width="400" alt="eer" src="![ERD](https://github.com/user-attachments/assets/325bb4d2-06cc-4fba-b579-8ebfec66bbbf)
-"></kbd> <br>
-</p>
-
-</details>
-<br>
 
 ---
 
