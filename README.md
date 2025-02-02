@@ -41,7 +41,7 @@ Dataset yang disediakan terdiri dari tabel-tabel berikut:<br>
 <br>
 Membuat tabel analisa berdasarkan hasil aggregasi dari ke-empat tabel yang sudah diimport sebelumnya. Berikut ini adalah kolom-kolom yang mandatory pada tabel tersebut: <br> ● transaction_id : kode id transaksi,<br> ● date : tanggal transaksi dilakukan,<br> ● branch_id : kode id cabang Kimia Farma,<br> ● branch_name : nama cabang Kimia Farma,<br> ● kota : kota cabang Kimia Farma, <br>● provinsi : provinsi cabang Kimia Farma, <br> ● rating_cabang : penilaian konsumen terhadap cabang Kimia Farma <br>● customer_name : Nama customer yang melakukan transaksi, <br>● product_id : kode product obat, <br>● product_name : nama obat, <br>● actual_price : harga obat, <br>● discount_percentage : Persentase diskon yang diberikan pada obat,<br> ● persentase_gross_laba : Persentase laba yang seharusnya diterima dari obat dengan ketentuan berikut:<br> ■ Harga <= Rp 50.000 -> laba 10% <br>■ Harga > Rp 50.000 - 100.000 -> laba 15% <br>■ Harga > Rp 100.000 - 300.000 -> laba 20% <br>■ Harga > Rp 300.000 - 500.000 -> laba 25% <br>■ Harga > Rp 500.000 -> laba 30%, <br>● nett_sales : harga setelah diskon,<br> ● nett_proﬁt : keuntungan yang diperoleh Kimia Farma,<br> ● rating_transaksi : penilaian konsumen terhadap transaksi yang dilakukan. 
  <br>
-<details>
+<details> <br>
   <summary> Klik untuk melihat Query </summary>
     <br>
     
@@ -87,8 +87,3 @@ LEFT JOIN
     `rakaminkfanalytic.kimia_farma.kf_product` p ON t.product_id = p.product_id;
 
 ---
-<br>
-
----
-
-
