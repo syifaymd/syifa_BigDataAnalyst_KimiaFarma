@@ -18,11 +18,11 @@ Program Project Based Internship kolaborasi Rakamin Academy dan Kimia Farma Big 
 
 **Dataset** <br>
 Dataset yang disediakan terdiri dari tabel-tabel berikut:<br>
--kf_ﬁnal_transaction,<br> - kf_inventory,<br> - kf_kantor_cabang,<br> - kf_product. 
+- kf_ﬁnal_transaction,<br> - kf_inventory,<br> - kf_kantor_cabang,<br> - kf_product. 
 <br>
 
-
 ---
+
 
 
 ## 📂 **Tabel Analisis**
