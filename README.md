@@ -92,14 +92,3 @@ LEFT JOIN
 ---
 
 
-## 📂 **Data Visualization**
-
-[Lihat pada halaman Looker Data Studio](https://lookerstudio.google.com/s/k3IpeY-vPMk)
-
-<p align="center">
-    <kbd> <img width="1000" alt="
-    Gambar  — Dashboard Performance Analytics Kimia Farma Business Year 2020-2023
-</p>
-<br>
-
----
