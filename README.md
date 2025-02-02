@@ -12,7 +12,7 @@ Program Project Based Internship kolaborasi Rakamin Academy dan Kimia Farma Big 
 <br>
 
 **Objectives**
-- Membuat Tabel Analis
+- Membuat Tabel Analisis
 - Membuat visualisasi/dashboard laporan penjualan perusahaan Kimia Farma
 <br>
 
