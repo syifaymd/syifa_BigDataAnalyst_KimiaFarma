@@ -1,7 +1,8 @@
 
 # **Virtual Internship Experience: Big Data Analytics - Kimia Farma**
-Tool : MySQL <br>
-Visualization : Looker Data Studio <br>
+Tool : BigQuery <br>
+Visualization : "https://lookerstudio.google.com/s/k3IpeY-vPMk"
+
 Dataset : 
 <br>
 
@@ -87,6 +88,7 @@ LEFT JOIN
 
 ---
   <br>  
+
 ## 📂 **Data Visualization**
 
 [Lihat pada halaman Looker Data Studio](https://lookerstudio.google.com/s/k3IpeY-vPMk)
