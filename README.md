@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1f615fdc-060f-423b-8f22-2ef5e0f9cae9)
+
 # **Virtual Internship Experience: Big Data Analytics - Kimia Farma**
 Tool : MySQL <br>
 Visualization : Looker Data Studio <br>
