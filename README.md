@@ -1,6 +1,6 @@
 
 # **Virtual Internship Experience: Big Data Analytics - Kimia Farma**
-Tool : BigQuery <br>
+Tool : BigQuery SQL <br>
 Visualization : "https://lookerstudio.google.com/s/k3IpeY-vPMk"
 
 <br>
